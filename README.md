@@ -20,7 +20,7 @@ I'm a Junior software Developer, from South Africa
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-## Connect me 
+## Connect with me 
 
 <a href="https://www.linkedin.com/in/themba-maphosa-21994b1a3"><img align="left" src="https://raw.githubusercontent.com/Themba-M-max/Themba-M-max/main/Images/linkedin.svg" alt="Themba | LinkedIn" width="21px"/></a>
 
