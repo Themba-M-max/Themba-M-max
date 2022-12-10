@@ -9,7 +9,7 @@ I'm a Junior software Developer, from South Africa
 
 <a href="https://www.linkedin.com/in/themba-maphosa-21994b1a3"><img align="left" src="https://raw.githubusercontent.com/Themba-M-max/Themba-M-max/main/Images/linkedin.svg" alt="Themba | LinkedIn" width="21px"/></a>
 
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/Themba-M-max/Themba-M-max/main/Images/instagram.svg" alt="Themba | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/them.ba_/"><img align="left" src="https://raw.githubusercontent.com/Themba-M-max/Themba-M-max/main/Images/instagram.svg" alt="Themba | Instagram" width="21px"/></a>
 
 
 <!---
