@@ -1,4 +1,4 @@
-# Hello world 👋
+# 👋
 
 I'm a Junior software Developer, from South Africa
 -  BSc degree in Computer Science and Statistics at the University of Cape Town.
